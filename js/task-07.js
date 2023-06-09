@@ -8,4 +8,5 @@ fontSizeControl.addEventListener('input', function() {
 
 textSpan.style.color = "blue"
  
- 
+const isComing = prompt("Please confirm hotel reservation");
+console.log(isComing);
